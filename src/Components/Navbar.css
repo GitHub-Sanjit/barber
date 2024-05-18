@@ -136,6 +136,7 @@ body.active-modal {
   cursor: pointer;
   top: 13px;
   right: 17px;
+  margin-left: 40%;
 }
 .swal2-confirm {
   background-color: #002b64 !important;
