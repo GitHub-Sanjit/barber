@@ -120,11 +120,7 @@ const Navbar = () => {
 
                             <span>
                                 <p > <input id='same' type='checkbox' required className='in' />
-                                    <label htmlFor='same'>  Ich bin damit einverstanden, von der Küffner Group
-                                        regelmäßig aktuelle Informationen per Mail zugesandt
-                                        zu bekommen. Ich kann die Einwilligung jederzeit
-                                        widerrufen. Details sind der Datenschutzerklärung zu
-                                        entnehmen</label>
+                                    <label htmlFor='same'>  Term and Policy</label>
                                 </p>
                             </span>
                             <button className='btn-pr' type='submit'>Subscribe</button>
